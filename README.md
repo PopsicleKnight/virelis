@@ -1,6 +1,7 @@
 # Virelis
 
-**TODO: Add description**
+Virelis is an Elixir-powered learning project. I want to build a system to quickly set up Business Application software with the best practices kept in mind.
+Virelis ensures that every aspect of your system - schemas, workflows, and configurations - is stored in source control.
 
 ## Installation
 
@@ -18,4 +19,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/virelis>.
-
